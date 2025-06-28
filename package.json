@@ -1,0 +1,25 @@
+{
+  "name": "see-result-scrapping",
+  "version": "1.0.0",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabs01/SEE-Result-Scrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabs01/SEE-Result-Scrapping/issues"
+  },
+  "homepage": "https://github.com/Prabs01/SEE-Result-Scrapping#readme",
+  "description": "",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "p-limit": "^6.2.0",
+    "puppeteer": "^24.11.1"
+  }
+}
